@@ -8,8 +8,8 @@
     --right-btn-hover-color: rgba(28, 122, 28, 1);
     --hover-width: 75%;
     --other-width: 25%;
-    --iphone-hover-width: 60%;
-    --iphone-other-width: 40%;
+    --iphone-hover-width: 65%;
+    --iphone-other-width: 35%;
     --speed: 1000ms
 }
 
@@ -142,7 +142,7 @@ h1 {
         font-size: 1.2rem;
     }
     .btn {
-        padding: 1rem;
+        padding: .2rem;
         width: 7rem;
     }
 
